@@ -11,6 +11,12 @@
       "email": "test@gmail.com",
       "password": "1234",
       "id": 2
+    },
+    {
+      "fullName": "Vaibhav",
+      "email": "Vaibhavsharma2705@gmail.com",
+      "password": "Vaibhav123",
+      "id": 3
     }
   ]
 }
